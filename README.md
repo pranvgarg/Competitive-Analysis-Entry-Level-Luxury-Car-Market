@@ -22,21 +22,21 @@ This project was completed for JD Power and Associates to conduct a competitive 
 
 ## Key Visuals
 ### Zipf's Law Test
-![Zipf's Law Log Scale Plot]()
-![Zipf's Law No Log Scale Plot]()
+![Zipf's Law Log Scale Plot](img/LogScalePlot.png)
+![Zipf's Law No Log Scale Plot](img/nonLogScalePlot.png)
 
 
 ### Lift Value Heatmap
-![Heatmap of Lift Values]()
+![Heatmap of Lift Values](img/Lift.png)
 
 ### MDS Plot
-![MDS Plot]()
+![MDS Plot](img/MDS.png)
 
 ### Brand vs. Attribute Heatmap
-![Brand vs. Attribute Heatmap]()
+![Brand vs. Attribute Heatmap](img/WordsBrands.png)
 
 ### Aspirational Brand Analysis
-![Aspirational Brand Heatmap]()
+![Aspirational Brand Heatmap](img/aspirationBrands.png)
 
 ## Task Details and Functions Used
 
