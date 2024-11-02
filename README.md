@@ -1,0 +1,2 @@
+# Unstructured Data Analytics: Competitive Analysis of the Entry-Level Luxury Car Market
+ Conducted an unstructured data analytics project for JD Power and Associates, focusing on social media discussions to perform a competitive analysis of the entry-level luxury car market. Extracted, processed, and analyzed 5,000 forum posts using Python to identify top brands, calculate lift ratios, create MDS maps, and uncover key car attributes and consumer preferences, providing actionable insights for strategic decision-making.
