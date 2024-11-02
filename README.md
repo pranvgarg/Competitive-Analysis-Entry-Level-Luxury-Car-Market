@@ -23,8 +23,8 @@ This project was completed for JD Power and Associates to conduct a competitive 
 ## Key Visuals
 ### Zipf's Law Test
 ![Zipf's Law Log Scale Plot]()
-![Zipf's Law No Log Scale Plot](<img width="595" alt="Screenshot 2024-11-02 at 12 08 54 AM" src="https://github.com/user-attachments/assets/901be9b3-3d49-4ac7-8c40-15f10adb9d17">
-)
+![Zipf's Law No Log Scale Plot](<img width="595" alt="Screenshot 2024-11-02 at 12 08 54 AM" src="https://github.com/user-attachments/assets/776a0d59-162b-4ac4-9272-f75ef99215da">)
+
 
 ### Lift Value Heatmap
 ![Heatmap of Lift Values](<img width="745" alt="image" src="https://github.com/user-attachments/assets/d47751d6-305b-4740-ad59-b30d9d8009f2">
