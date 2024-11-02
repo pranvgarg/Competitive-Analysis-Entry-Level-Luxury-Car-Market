@@ -23,24 +23,20 @@ This project was completed for JD Power and Associates to conduct a competitive 
 ## Key Visuals
 ### Zipf's Law Test
 ![Zipf's Law Log Scale Plot]()
-![Zipf's Law No Log Scale Plot](<img width="595" alt="Screenshot 2024-11-02 at 12 08 54 AM" src="https://github.com/user-attachments/assets/776a0d59-162b-4ac4-9272-f75ef99215da">)
+![Zipf's Law No Log Scale Plot]()
 
 
 ### Lift Value Heatmap
-![Heatmap of Lift Values](<img width="745" alt="image" src="https://github.com/user-attachments/assets/d47751d6-305b-4740-ad59-b30d9d8009f2">
-)
+![Heatmap of Lift Values]()
 
 ### MDS Plot
-![MDS Plot](<img width="870" alt="image" src="https://github.com/user-attachments/assets/b9a58ee0-36b9-4a83-abfc-17bb0e81420d">
-)
+![MDS Plot]()
 
 ### Brand vs. Attribute Heatmap
-![Brand vs. Attribute Heatmap](<img width="640" alt="image" src="https://github.com/user-attachments/assets/3ab6d2b1-409d-46c1-b5b3-0cabb7db55ac">
-)
+![Brand vs. Attribute Heatmap]()
 
 ### Aspirational Brand Analysis
-![Aspirational Brand Heatmap](<img width="636" alt="image" src="https://github.com/user-attachments/assets/a588719e-d3c2-4b86-9c72-53e38c32f329">
-)
+![Aspirational Brand Heatmap]()
 
 ## Task Details and Functions Used
 
