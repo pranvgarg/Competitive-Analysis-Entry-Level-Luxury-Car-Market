@@ -22,20 +22,26 @@ This project was completed for JD Power and Associates to conduct a competitive 
 
 ## Key Visuals
 ### Zipf's Law Test
-![Zipf's Law Log Scale Plot](path/to/your/log_scale_plot.png)
-![Zipf's Law No Log Scale Plot](path/to/your/no_log_scale_plot.png)
+![Zipf's Law Log Scale Plot](<img width="597" alt="image" src="https://github.com/user-attachments/assets/b241c748-1b83-4ff9-bf91-c63401b66c2c">
+)
+![Zipf's Law No Log Scale Plot](<img width="642" alt="image" src="https://github.com/user-attachments/assets/836a4f7c-a3df-4690-a6d4-d7e9d0a20bd3">
+)
 
 ### Lift Value Heatmap
-![Heatmap of Lift Values](path/to/your/heatmap.png)
+![Heatmap of Lift Values](<img width="745" alt="image" src="https://github.com/user-attachments/assets/d47751d6-305b-4740-ad59-b30d9d8009f2">
+)
 
 ### MDS Plot
-![MDS Plot](path/to/your/mds_plot.png)
+![MDS Plot](<img width="870" alt="image" src="https://github.com/user-attachments/assets/b9a58ee0-36b9-4a83-abfc-17bb0e81420d">
+)
 
 ### Brand vs. Attribute Heatmap
-![Brand vs. Attribute Heatmap](path/to/your/brand_attribute_heatmap.png)
+![Brand vs. Attribute Heatmap](<img width="640" alt="image" src="https://github.com/user-attachments/assets/3ab6d2b1-409d-46c1-b5b3-0cabb7db55ac">
+)
 
 ### Aspirational Brand Analysis
-![Aspirational Brand Heatmap](path/to/your/aspirational_brand_heatmap.png)
+![Aspirational Brand Heatmap](<img width="636" alt="image" src="https://github.com/user-attachments/assets/a588719e-d3c2-4b86-9c72-53e38c32f329">
+)
 
 ## Task Details and Functions Used
 
@@ -95,6 +101,20 @@ This project was completed for JD Power and Associates to conduct a competitive 
 - **Custom Model-to-Brand Mapping**: Created a custom replacement system to accurately map car models to brands.
 - **Econometric Validation**: Implemented Zipf's law analysis to validate the distribution of word frequencies in the dataset.
 
+
+### **Summary**:
+- **BMW** and **Audi** are seen as aspirational, with customers viewing them as desirable, prestigious brands.
+- **Acura** is moderately aspirational, but less so than BMW and Audi.
+- **Honda** and **Infiniti** are less associated with aspiration, being seen as practical, reliable choices rather than status-driven purchases.
+
+
+### AHA Moments!!!
+
+- **BMW** promotes itself as the "Ultimate Driving Machine," but interestingly, the data reveals that BMW has the lowest lift values for attributes like performance, technology, and driving experience. This suggests a disconnect between the brand's image and how customers actually perceive it, indicating that BMW might want to rethink its tagline.
+  
+- However, when we explore the issue further, it becomes clear that despite this gap in perception, **BMW** still stands out as the most aspirational brand. This insight could guide the brand’s strategy moving forward, helping them better align their messaging with how customers view the brand while leveraging their aspirational appeal.
+
+This shows how each brand is perceived in terms of customer aspiration, which can be useful for positioning and marketing strategies.
 ## How to Clone the Repository
 To clone this project to your local machine, run the following command:
 
