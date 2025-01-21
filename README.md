@@ -3,6 +3,11 @@
 ## Project Overview
 This project was completed for JD Power and Associates to conduct a competitive analysis of the entry-level luxury car market in the USA. The main objective was to analyze social media discussions from Edmunds.com forums to identify customer preferences, brand associations, and attributes that influence brand perception. The analysis included testing Zipf's law, calculating lift ratios, plotting multi-dimensional scaling (MDS) maps, and uncovering key insights into brand switching tendencies and aspirational appeal.
 
+## Team Members
+- Ronak Goyal
+- Pranav Garg
+
+
 ## Key Highlights
 - **Comprehensive Data Collection**: Extracted approximately 5,000 posts from Edmunds.com discussion forums to capture diverse customer opinions.
 - **Custom-Built Python Scraper**: Developed to handle complex web structures and ensure robust data collection.
